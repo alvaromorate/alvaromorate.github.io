@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: Bienvenidos 
+title:  "Sup Biaaatch!"
 date:   2017-01-01 17:48:20 -0500
 categories: jekyll update
 ---
